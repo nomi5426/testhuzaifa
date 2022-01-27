@@ -1,2 +1,2 @@
 <?php
-// Silence is goldesdasda
+// Silence is gold
